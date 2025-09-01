@@ -4,13 +4,11 @@ Simulate and analyze **DiCaprio Trees** in both mesoscopic and macroscopic regim
 
 ---
 
-## 📁 Repository Structure
 
-dicaprio-trees/
-│
-├─ dicaprio_trees.ipynb   # Generate GraphML files for DiCaprio Trees
-├─ plot.ipynb             # Create plots from generated GraphML files (optimized for Google Colab)
-├─ Plots/                 # Example PNG plots
-│   ├─ meso_100k/         # Mesoscopic regime with 100k vertices
-│   └─ macro_100k/        # Macroscopic regime with 100k vertices
-└─ README.md
+**dicaprio-trees/**
+* `dicaprio_trees.ipynb`: Generates GraphML files for DiCaprio Trees.
+* `plot.ipynb`: Creates plots from generated GraphML files (optimized for Google Colab).
+* `Plots/`: Example PNG plots.
+    * `meso_100k/`: Mesoscopic regime with 100k vertices.
+    * `macro_100k/`: Macroscopic regime with 100k vertices.
+* `README.md`: This file.
