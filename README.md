@@ -1,4 +1,4 @@
-# DiCaprio Trees Simulation
+# DiCaprio Trees Simulations
 
 Simulate and analyze **DiCaprio Trees** in both mesoscopic and macroscopic regimes. This repository provides code to generate GraphML files and create plots for structural analysis of the generated trees.
 
